@@ -115,8 +115,3 @@
 
 [![RJ-Shuvo's github activity graph](https://my-activity-graph-instance.herokuapp.com/graph?username=RJ-Shuvo&theme=react-dark&area=true&hide_border=true)](https://github.com/RJ-Shuvo/github-readme-activity-graph)
 
-<a 
-href=https://github.com/RJ-Shuvo"4/lit"><img title="lite" src="https://github-readme-stats.vercel.app/api/pin/?username=RJ-Shuvo&repo=lite&theme=gotham"></a>
-<a href="https://github.com/RJ-Shuvo"><img title="free" src="https://github-readme-stats.vercel.app/api/pin/?username=RJ-Shuvo&repo=free&theme=gotham"></a>
-<a href="https://github.com/RJ-Shuvo"><img title="gf-hack" src="https://github-readme-stats.vercel.app/api/pin/?username=RJ-Shuvo4&repo=gf-hack&theme=gotham"></a>
-<a href="https://github.com/RJ-Shuvo/2k9"><img title="2k9" src="https://github-readme-stats.vercel.app/api/pin/?username=RJ-Shuvi&repo=2k9&theme=gotham"></a>
